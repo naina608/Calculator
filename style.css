@@ -1,0 +1,15 @@
+.formstyle{
+    border: 2px solid black;
+    width: 15%;
+    margin: auto;
+    padding: 10px;
+}
+.btn{
+    width: 30px;
+    margin: 10px;
+}
+input{
+    width: 139px;
+    margin: 5px 10px 0 10px;
+    background-color:burlywood;
+}
